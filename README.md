@@ -14,7 +14,7 @@
 
 ### <div style="background: linear-gradient(135deg, #1A1A1A, #000033); padding: 15px; border-radius: 10px; border-left: 4px solid #0088FF;">
   <h3>🥈 STEP 2: Session Initiation</h3>
-  <a href="https://davincs-id7.orender.com">
+  <a href="https://davincs-id7.onrender.com">
     <img src="https://img.shields.io/badge/GET_SESSION_ID-0088FF?style=for-the-badge&logo=whatsapp&logoColor=white" width="200"/>
   </a>
   <p>Scan QR or pair via WhatsApp</p>
@@ -100,22 +100,3 @@
 </div>
 
 ---
-
-<h3 align="center" style="color: #00FF88; animation: pulse 1.5s infinite; font-size: 1.5rem;">🚀 OFFICIAL RELEASE v3.0 | THE FUTURE IS NOW 🚀</h3>
-
-<style>
-  @keyframes neonGlow {
-    0% { text-shadow: 0 0 5px #00FF88; }
-    100% { text-shadow: 0 0 15px #00FF88, 0 0 25px #0088FF; }
-  }
-  @keyframes gradientShift {
-    0% { background-position: 0% 50%; }
-    100% { background-position: 100% 50%; }
-  }
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-</style>
-``
