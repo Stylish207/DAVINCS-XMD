@@ -1,33 +1,7 @@
 
-```markdown
-<h1 align="center" style="color: #00FF88; text-shadow: 0 0 15px #00FF88; font-size: 2.5rem; animation: neonGlow 2s infinite alternate;">⚡ DAVINCS-XMD AI POWERHOUSE ⚡</h1>
-<h3 align="center" style="color: #FFFFFF; margin-top: -10px; font-weight: 300;">The Next Evolution of WhatsApp Automation</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=3500&pause=1000&color=00FF88&center=true&width=500&lines=The+Legend+Has+Awakened...;AI+Powered+Multi-Device+Bot;Terminal+Grade+Performance;Built+Different+by+DavincsTech" alt="Typing animation" />
-
-  <p style="font-size: 1.1rem; margin-top: 20px;">
-    <strong style="background: linear-gradient(90deg, #00FF88, #0088FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientShift 5s infinite alternate;">Power • Intelligence • Control</strong>
-  </p>
-</div>
-
 ---
 
-## 🌟 **Legendary Features**
-<div align="center">
-
-```bash
-🔥 AI Command Responses        🎭 Sticker Wizardry
-⚡ Lightning Fast Execution   🎵 Media Downloader Pro
-🛡️ Bulletproof Security       👑 Admin Control Suite
-🌐 Multi-Device Ready         💻 Developer Friendly
-```
-
-</div>
-
----
-
-## 🚀 **3-Step Ascension**
+## 🚀 **3-Step TO DEPLOY**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
 ### <div style="background: linear-gradient(135deg, #1A1A1A, #003300); padding: 15px; border-radius: 10px; border-left: 4px solid #00FF88;">
