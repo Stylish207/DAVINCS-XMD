@@ -103,7 +103,7 @@
   <a href="https://github.com/DavincsTech">
     <img src="https://img.shields.io/badge/👑_DAVINCSTECH-00FF88?style=for-the-badge&logo=github&logoColor=black" width="220"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029VakSTEQGZNCk6CqE9>
+  <a href="https://whatsapp.com/channel/0029VakSTEQGZNCk6CqE9" >
     <img src="https://img.shields.io/badge/📧_SUPPORT-0088FF?style=for-the-badge&logo=mail.ru&logoColor=white" width="220"/>
   </a>
 </div>
