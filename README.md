@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://files.catbox.moe/your-image-name.png" width="280" alt="DAVINCS-XMD Icon"/>
+  
 
-  <h1>🦾 DAVINCS-XMD — Terminal AI WhatsApp Bot</h1>
+  <h1>🦾 DAVINCS-XMD  AI WhatsApp Bot</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF88&center=true&width=440&lines=The+Legend+Has+Awakened...;Deploy+Your+Own+WhatsApp+Bot!;AI+Powered+Multi-Device+Bot!;Built+by+DavincsTech+💻" alt="Typing animation" />
 
   <p><strong>Power. Intelligence. Control — All in your WhatsApp.</strong></p>
 
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="300" alt="Tech Terminal"/>
 
   <br/>
 
@@ -44,7 +43,7 @@
 
 ---
 
-## 🛠️ Deploy in 3 Terminal-Ready Steps
+## 🛠️ Deploy in 3 Ready Steps
 
 ### 🥇 Step 1: [🚀 Fork This Repository](https://github.com/DavincsTech/DAVINCS-XMD/fork)
 
@@ -79,26 +78,10 @@
 
 ---
 
-## 🧠 Tech Stack
-
-- Node.js + Express
-- Baileys Multi-Device
-- Heroku + Vercel
-- FFmpeg (Media Support)
-- Optional OpenAI AI Commands
-- Fully Terminal-Styled UI 💚
-
----
-
 ## 👨‍💻 Developer
 
 > Built by 💻 [DavincsTech](https://github.com/DavincsTech)  
 > Follow me on GitHub and star the repo if you like it ⭐
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="220" alt="Tech Dev GIF" />
-</div>
-
 ---
 
 ## 🔧 Local Development
@@ -111,9 +94,7 @@ npm start
 ```
 
 ---
-
-> ⚠️ **Disclaimer:** This project is for educational use only. Use responsibly and respectfully.
-
+🔥Get ready in touch 😎 
 ---
 
 <div align="center">
