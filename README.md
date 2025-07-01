@@ -1,14 +1,13 @@
-## 💬 About
-**DAVINCS-XMD** MULT DEVICE 
+## 💬 
+**DAVINCS-XMD** **MULT DEVICE**
 <div align="center">
 <img src="https://files.catbox.moe/4bsa99.jpg" width="300" alt="Davincs Tech Logo">
 
-# 🦾 DAVINCS-XMD WhatsApp Bot
+# ✴️ HELLO THIS IS  DAVINCS-XMD 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=450&lines=Welcome+to+DAVINCS-XMD+Bot!;Powered+by+Allan+Davincs+%28Davincs+Tech%29)
 
 </div>
-
 
 
 ## 🚀 **3-Step TO DEPLOY**
@@ -104,7 +103,7 @@
   <a href="https://github.com/DavincsTech">
     <img src="https://img.shields.io/badge/👑_DAVINCSTECH-00FF88?style=for-the-badge&logo=github&logoColor=black" width="220"/>
   </a>
-  <a href="mailto:support@davincstech.com">
+  <a href="https://whatsapp.com/channel/0029VakSTEQGZNCk6CqE9>
     <img src="https://img.shields.io/badge/📧_SUPPORT-0088FF?style=for-the-badge&logo=mail.ru&logoColor=white" width="220"/>
   </a>
 </div>
