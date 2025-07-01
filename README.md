@@ -1,6 +1,6 @@
-<div align="center">
 ## 💬 About
-**WELCOME 🙂 THIS IS DAVINCS-XMD** is a powerful, smart, and fully automated WhatsApp Bot developed with love by **Allan Davincs**.
+**DAVINCS-XMD** MULT DEVICE 
+<div align="center">
 <img src="https://files.catbox.moe/4bsa99.jpg" width="300" alt="Davincs Tech Logo">
 
 # 🦾 DAVINCS-XMD WhatsApp Bot
