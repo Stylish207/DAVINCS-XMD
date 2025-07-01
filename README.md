@@ -51,7 +51,7 @@
 
 ---
 
-### 🥈 Step 2: [🔐 Get Your Session ID](https://davincs-id7.orender.com)
+### 🥈 Step 2: [🔐 Get Your Session ID](https://davincs-id6.orender.com)
 
 > Scan the QR code or pair using WhatsApp and copy your Session ID.
 
