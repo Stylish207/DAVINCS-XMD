@@ -35,9 +35,9 @@
   </a>
   <p>One-click Heroku deployment</p>
 </div>
-##OTHER Deployment
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new?template=https%3A%2F%2Fgithub.com%2FDavincsTech%2FDavincs-xmd)
+<p> one_click Railway deployment</p>
 </div>
 
 ---
