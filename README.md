@@ -31,7 +31,7 @@
 ### <div style="background: linear-gradient(135deg, #1A1A1A, #330000); padding: 15px; border-radius: 10px; border-left: 4px solid #FF0066;">
   <h3>🥉 STEP 3: Deploy & Conquer</h3>
   <a href="https://davincs-xmd-heruko.vercel.app/">
-    <img src="https://img.shields.io/badge/DEPLOY_NOW-FF0066?style=for-the-badge&logo=heroku&logoColor=white" width="200"/>
+    <img src="https://img.shields.io/badge/DEPLOY_ON_HERUKO-FF0066?style=for-the-badge&logo=heroku&logoColor=white" width="200"/>
   </a>
   <p>One-click Heroku deployment</p>
 </div>
