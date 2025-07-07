@@ -1,4 +1,3 @@
-## 💬 
 **DAVINCS-XMD** **MULT DEVICE**
 <div align="center">
 <img src="https://files.catbox.moe/4bsa99.jpg" width="300" alt="Davincs Tech Logo">
@@ -35,6 +34,7 @@
     <img src="https://img.shields.io/badge/DEPLOY_NOW-FF0066?style=for-the-badge&logo=heroku&logoColor=white" width="200"/>
   </a>
   <p>One-click Heroku deployment</p>
+  [![Deploy on Railway](https://img.shields.io/badge/🚀_Deploy_on_Railway-0E1D25?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new?template=https://github.com/DavincsTech/Davincs-xmd)
 </div>
 
 </div>
