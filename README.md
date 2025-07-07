@@ -1,6 +1,6 @@
 **DAVINCS-XMD** **MULT DEVICE**
 <div align="center">
-<img src="https://files.catbox.moe/4bsa99.jpg" width="300" alt="Davincs Tech Logo">
+<video src="assets/davincs-xmd.mp4" controls width="100%"></video> 
 
 # ✴️ HELLO THIS IS  DAVINCS-XMD 
 
