@@ -14,7 +14,7 @@ cmd({
 
   if (!q) return reply("❌ *Which song should I fetch?* Please provide a song name or keywords.");
 
-  reply("🎶 *Sɪʟᴠᴀ Sᴘᴀʀᴋ ɪs ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛ...*\n🔍 Searching for your track...");
+  reply("🎶 *DAVINCS-MDX SONG Player server...*\n🔍 Searching for your track...");
 
   try {
     const search = await ytSearch(q);
@@ -45,7 +45,7 @@ cmd({
       }
     }
 
-    if (!audioUrl) return reply("⚠️ *All available servers failed to fetch your song.* Please try again later.");
+    if (!audioUrl) return reply("⚠️ *All available servers failed to fetch your song.* Please try again later or search other song .");
 
     // Send song preview card
     await client.sendMessage(from, {
@@ -57,7 +57,7 @@ cmd({
 │ 🎤 *Artist:* ${artistName}
 │ 🔗 *Source:* YouTube
 ╰─────⊷
-🪄 _Delivered by Silva Spark Bot_ ✨
+🪄 _Delivered by Davincs AI Bot_ ✨
       `.trim(),
       contextInfo: {
         forwardingScore: 999,
