@@ -1,7 +1,8 @@
 **DAVINCS-XMD** **MULT DEVICE**
 <div align="center">
   
-![Davincs MD1 Animation](assets/davincs-xmd1.gif) 
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<br>
 
 # ✴️ HELLO THIS IS  DAVINCS-XMD 
 
