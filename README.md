@@ -1,7 +1,7 @@
 **DAVINCS-XMD** **MULT DEVICE**
 <div align="center">
   
-<video src="assets/davincs-xmd1.gif" controls width="100%"></video> 
+![Davincs MD1 Animation](assets/davincs-xmd1.gif) 
 
 # ✴️ HELLO THIS IS  DAVINCS-XMD 
 
